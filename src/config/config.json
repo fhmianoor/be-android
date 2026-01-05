@@ -4,6 +4,7 @@
     "password": "wzQFASlNMXZoOULnjoHCUBGBLJZCAUJU",
     "database": "railway",
     "host": "hopper.proxy.rlwy.net",
+    "port": "30806",
     "dialect": "mysql"
   },
   "test": {
@@ -18,6 +19,7 @@
     "password": "wzQFASlNMXZoOULnjoHCUBGBLJZCAUJU",
     "database": "railway",
     "host": "hopper.proxy.rlwy.net",
+    "port": "30806",
     "dialect": "mysql"
   }
 }

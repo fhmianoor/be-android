@@ -15,10 +15,13 @@ module.exports = {
       alamat: {
         type: Sequelize.STRING
       },
-      no: {
-        type: Sequelize.NUMBER
+      umur: {
+        type: Sequelize.STRING
       },
-      email: {
+      alamat: {
+        type: Sequelize.STRING
+      },
+      pekerjaan: {
         type: Sequelize.STRING
       },
       createdAt: {
